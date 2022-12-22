@@ -1,0 +1,9 @@
+.reg{
+    display: flex;
+    justify-content: center;
+}
+
+.sex{
+    display: flex;
+    justify-content:flex-start;
+}
